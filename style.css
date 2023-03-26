@@ -1,0 +1,35 @@
+.div1 {
+    height: 500px;
+    width: 1000px;
+    background-color: coral;
+}
+
+#nome {
+    font-family: 'Jost', sans-serif;
+    padding-left: 100px;
+}
+#dscrp {
+    font-family: 'Raleway', sans-serif;
+}
+
+body{
+    background-color: rgb(11,122, 117)
+}
+#nacional {
+    color: rgb(205, 243, 255);
+}
+
+.skill1 {
+    font-size: 23px;
+}
+
+.skill2 {
+    font-size: 20px;
+}
+.skill3 {
+    font-size: 17px;
+}
+
+
+
+

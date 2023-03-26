@@ -1,0 +1,54 @@
+.div1 {
+    display: flex;
+    
+}
+.div1 img {
+    border-radius: 50px;
+    background-color: #EA5455;
+}
+.div2 {
+    background-color: #E4DCCF;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: 0 20px;
+    padding: 20px;
+    border-radius: 50px;
+
+
+}
+a {
+    color: #EA5455;
+}
+
+
+.header {
+    font-family: 'Jost', sans-serif;
+    padding-left: 40%;
+}
+#dscrp {
+    font-family: 'Raleway', sans-serif;
+}
+
+
+body{
+    background-color: #F9F5EB;
+    color: #002B5B;
+}
+
+.skill1 {
+    font-size: 23px;
+    color: #EA5455;
+}
+
+.skill2 {
+    font-size: 23px;
+}
+.skill3 {
+    font-size: 23px;
+    color: #EA5455;
+}
+
+
+
+
